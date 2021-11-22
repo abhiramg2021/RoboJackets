@@ -1,5 +1,5 @@
 # RoboJackets Software Training
 
-This is repository contains resources for the RoboJackets Software Training program.
+This repository is my practice code for the RoboJackets Software Training
 
-The syllabus for training can be found [here](Syllabus.md).
+The software training library can be found at https://github.com/RoboJackets/software-training
